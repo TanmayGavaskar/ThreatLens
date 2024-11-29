@@ -1,4 +1,4 @@
-# ThreatLens oggabooga
+# ThreatLens
 A Real Time Vulnerability Monitoring Tool
 
 Note: This repository only includes the main script, sel.py.
