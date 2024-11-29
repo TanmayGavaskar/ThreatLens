@@ -20,7 +20,7 @@ Key Features:
 Technologies Used:
 
 1. Programming Language: Python  
-2. Web Scraping: Selenium  
+2. Web Scraping: Selenium
 3. Data Handling: Pandas  
 4. Email Automation: SMTP (Simple Mail Transfer Protocol)  
 5. Database: MySQL for storing website links and user information  
