@@ -1,9 +1,9 @@
 # ThreatLens
 A Real Time Vulnerability Monitoring Tool
 
-ThreatLens is a Python-based web scraping tool designed to help organizations monitor OEM websites for critical vulnerabilities in IT/OT equipment. This project focuses on real-time data extraction and reporting to enhance cybersecurity measures.
-
 Note: This repository only includes the main script, sel.py.
+
+ThreatLens is a Python-based web scraping tool designed to help organizations monitor OEM websites for critical vulnerabilities in IT/OT equipment. This project focuses on real-time data extraction and reporting to enhance cybersecurity measures.
 
 Project Overview:
 
