@@ -7,21 +7,20 @@ ThreatLens is a Python-based web scraping tool designed to help organizations mo
 
 Project Overview:
 
-ThreatLens leverages powerful Python libraries such as Selenium and Spacy to scan specified OEM websites for vulnerabilities, extract relevant information like CVE-IDs, risk severity, product details, and publication dates, and then sends this data to predefined recipients via automated email. The tool is designed to be adaptable, allowing users to set up vulnerability monitoring for various websites and adjust the level of alerts based on risk severity.
+ThreatLens leverages powerful Python libraries such as Selenium to scan specified OEM websites for vulnerabilities, extract relevant information like CVE-IDs, risk severity, product details, and publication dates, and then sends this data to predefined recipients via automated email. The tool is designed to be adaptable, allowing users to set up vulnerability monitoring for various websites and adjust the level of alerts based on risk severity.
 
 Key Features:
 
 1. Real-Time Web Scraping: Monitors OEM websites continuously to detect vulnerabilities as they are published.  
 2. Data Extraction: Captures and parses critical information including CVE-IDs, product names, risk levels, and dates.  
 3. Automated Email Notifications: Sends collected data and mitigation strategies directly to designated email addresses.  
-4. Adaptability: Built with flexibility to work with dynamic web layouts and adapt to changes in the structure of web pages.  
-5. Compliance & Security: Ensures responsible data scraping by adhering to best practices for privacy and security.  
+4. Compliance & Security: Ensures responsible data scraping by adhering to best practices for privacy and security.  
 
 
 Technologies Used:
 
 1. Programming Language: Python  
-2. Web Scraping: Selenium, Spacy  
+2. Web Scraping: Selenium  
 3. Data Handling: Pandas  
 4. Email Automation: SMTP (Simple Mail Transfer Protocol)  
 5. Database: MySQL for storing website links and user information  
